@@ -12,5 +12,6 @@ https://github.com/AI4Finance-Foundation/FinRL
 2. What prediction model would be helpful? (Currently working on DLinear from LSTF-Linear)
 
 https://github.com/cure-lab/LTSF-Linear
+
 4. And what combinations of future steps are optimal?
 5. Does Ensemble Learning can reduce the variance?
