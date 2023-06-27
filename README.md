@@ -1,6 +1,7 @@
 # FINRL
 - Algorithm Trading/Backtesting using the Python module FinRL
-- Portfolio Analysis
+- Portfolio Allocation
+  
 Repository link :
 
 https://github.com/AI4Finance-Foundation/FinRL
