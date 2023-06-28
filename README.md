@@ -5,14 +5,6 @@
 FinRL: https://github.com/AI4Finance-Foundation/FinRL
 
 ------
-## Main subject for this project
-1. Does the prediction data can help the total reward of Reinforcement Learning Agents?
-2. What prediction model would be helpful? (Currently working on DLinear from LSTF-Linear)
-
-LSTF-Linear: https://github.com/cure-lab/LTSF-Linear
-
-4. And what combinations of future steps are optimal?
-5. Does Ensemble Learning can reduce the variance?
 
 ## Main Objectives of this Project
 1. Enhancing Reinforcement Learning Performance: Investigate the impact of prediction data on the total reward of Reinforcement Learning agents in algorithmic trading.
