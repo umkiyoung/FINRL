@@ -2,7 +2,7 @@
 - Algorithm Trading/Backtesting using the Python module FinRL
 - Portfolio Allocation
   
-FinRL: https://github.com/AI4Finance-Foundation/FinRL
+FinRL: [GitHub](https://github.com/AI4Finance-Foundation/FinRL)
 
 ------
 
